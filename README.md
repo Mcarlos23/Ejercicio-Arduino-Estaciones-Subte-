@@ -2,7 +2,7 @@
 
 Ejercicio de simulación de recorrido de estaciones de Subte con indicación sonora. 
 
-![](https://github.com/Estebamq/EjemploDocumentacion/blob/main/img/ArduinoTinkercad.jpg?raw=true)
+![](https://github.com/Mcarlos23/Ejercicio-Arduino-Estaciones-Subte-/blob/main/ejercicio_subte.jpg?raw=true)
 
 ## Comenzando 🚀
 
